@@ -1,2 +1,3 @@
 print("Hello")
-print("Hello, world")
+name = input("Введите свое имя")
+print("Hello, " + name)
